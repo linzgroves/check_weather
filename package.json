@@ -10,7 +10,6 @@
   "author": "Lindsay Groves <lindsaythegroves@gmail.com> (http://lindsaygroves.com)",
   "license": "ISC",
   "dependencies": {
-    "@hapi/joi": "^15.1.1",
     "express": "^4.17.1",
     "moment": "^2.24.0",
     "request": "^2.88.0"
